@@ -22,7 +22,7 @@
             color: var(--texto);
             margin: 0;
             padding: 0;
-            transition: background-color 0.3s, color 0.3s;
+            transition: transition: all 0.3s;
         }
         .dark-mode {
             background-color: #000000;
